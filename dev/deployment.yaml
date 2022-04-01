@@ -16,4 +16,4 @@ spec:
       - name: node
         image: ayeshasiddiqa/nodeappp:1.1
         ports:
-        - containerPort: 8080
+        - containerPort: 3000
