@@ -6,7 +6,7 @@ spec:
   selector:
     matchLabels:
       app: node
-  replicas: 3
+  replicas: 2
   template:
     metadata:
       labels:
