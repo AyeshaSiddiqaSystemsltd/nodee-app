@@ -1,3 +1,4 @@
+LABEL ME
 FROM node:17
 
 RUN mkdir -p /home/app
